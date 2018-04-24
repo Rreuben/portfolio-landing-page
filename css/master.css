@@ -1,4 +1,13 @@
 .content1 {
-  background-color: grey;
+  background-color: none;
   text-align: center;
+}
+body{
+  background-image: url(https://i.ytimg.com/vi/cYEvZaeY2lQ/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 20px
+}
+li{
+  list-style-type: none
 }
