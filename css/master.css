@@ -11,7 +11,18 @@ body{
 li{
   list-style-type: none
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  line-height: 5px;
+  font-style: italic;
+  background-color: #808080
+  color: white;
+}
 @media only screen and (max-width: 600px) {
     body {
         background-color: #FFCCCC;
     }
+}
