@@ -1,13 +1,13 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-# {Atton Island}
-#### {This is a website for a made up island known as Atton}, {Thursday, 19 April 2018}
-#### By **{ Rreuben and joankorir}**
+# {Portfolio Landing Page}
+#### {This is a website for any if all information about me}, {Tuesday, 24th April 2018}
+#### By **{ Rreuben }**
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have.}
+{This website is about Rreuben and features his recent projects.}
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -24,20 +24,18 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ## Known Bugs
-{The picture webpage needs a little arrangement. Unfortunately this is only a novice test site so I would not be aware of other bugs.}
+{There are no known bugs.}
 ## Technologies Used
 {This website was written with **Atom**. HTML is the main language and CSS is the only style tool used.}
 ## Support and contact details
-{If you come across any problem feel free to contact me and *joankorir* here on the site.}
+{If you come across any problem feel free to contact me and here on the site.}
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ### License
 *{MIT License}*
-Copyright (c) {2018} **{Rreuben and joankorir}**
+Copyright (c) {2018} **{Rreuben}**
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-PS: This is just a TEST SITE by a student :)
